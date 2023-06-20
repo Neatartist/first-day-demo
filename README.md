@@ -1,2 +1,2 @@
-# first-day-demo
+# first-day-repo
 this is an example repo 
